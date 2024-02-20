@@ -66,7 +66,7 @@
       ![image](https://github.com/SvendK/Docs/assets/3720082/7b96e9c5-1a56-4545-a4e4-0018b57007f3)
   </details>
   
-
+- [ ] Setup mouse cursor size and style - Select the Inverted style and size 2 for better contrast and easy cursor finding
 
 ## Security
 
