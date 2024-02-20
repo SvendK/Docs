@@ -1,0 +1,274 @@
+{
+  "custom-layouts": [
+    {
+      "uuid": "{628C9FCB-E2C5-4941-8DCE-F4384837F30C}",
+      "name": "UWQHD",
+      "type": "canvas",
+      "info": {
+        "ref-width": 2560,
+        "ref-height": 1392,
+        "zones": [
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 1280,
+            "height": 1392
+          },
+          {
+            "X": 1280,
+            "Y": 0,
+            "width": 1280,
+            "height": 1392
+          },
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 741,
+            "height": 1392
+          },
+          {
+            "X": 1814,
+            "Y": 0,
+            "width": 741,
+            "height": 1392
+          },
+          {
+            "X": 741,
+            "Y": 0,
+            "width": 1069,
+            "height": 1392
+          },
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 1280,
+            "height": 696
+          },
+          {
+            "X": 1284,
+            "Y": 0,
+            "width": 1275,
+            "height": 696
+          },
+          {
+            "X": 0,
+            "Y": 696,
+            "width": 1280,
+            "height": 696
+          },
+          {
+            "X": 1284,
+            "Y": 696,
+            "width": 1275,
+            "height": 696
+          },
+          {
+            "X": 406,
+            "Y": 245,
+            "width": 1734,
+            "height": 1050
+          },
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 2560,
+            "height": 696
+          },
+          {
+            "X": 0,
+            "Y": 696,
+            "width": 2560,
+            "height": 696
+          },
+          {
+            "X": 1818,
+            "Y": 0,
+            "width": 741,
+            "height": 696
+          },
+          {
+            "X": 1818,
+            "Y": 696,
+            "width": 741,
+            "height": 696
+          },
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 741,
+            "height": 696
+          },
+          {
+            "X": 0,
+            "Y": 696,
+            "width": 741,
+            "height": 696
+          }
+        ],
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "uuid": "{E9ECC988-B71F-4A41-AE1A-98A5B96B3067}",
+      "name": "Vertical 2K 1440x2550",
+      "type": "canvas",
+      "info": {
+        "ref-width": 1440,
+        "ref-height": 2520,
+        "zones": [
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 1440,
+            "height": 2520
+          },
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 1440,
+            "height": 1260
+          },
+          {
+            "X": 0,
+            "Y": 1260,
+            "width": 1440,
+            "height": 1260
+          },
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 1440,
+            "height": 840
+          },
+          {
+            "X": 0,
+            "Y": 840,
+            "width": 1440,
+            "height": 840
+          },
+          {
+            "X": 0,
+            "Y": 1680,
+            "width": 1440,
+            "height": 840
+          },
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 720,
+            "height": 840
+          },
+          {
+            "X": 720,
+            "Y": 0,
+            "width": 720,
+            "height": 840
+          },
+          {
+            "X": 0,
+            "Y": 1680,
+            "width": 720,
+            "height": 840
+          },
+          {
+            "X": 720,
+            "Y": 1680,
+            "width": 720,
+            "height": 840
+          },
+          {
+            "X": 0,
+            "Y": 840,
+            "width": 720,
+            "height": 840
+          },
+          {
+            "X": 720,
+            "Y": 840,
+            "width": 720,
+            "height": 840
+          },
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 1440,
+            "height": 1680
+          },
+          {
+            "X": 0,
+            "Y": 840,
+            "width": 1440,
+            "height": 1680
+          }
+        ],
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "uuid": "{C4974337-F506-4351-935F-17A8559DC767}",
+      "name": "HD",
+      "type": "canvas",
+      "info": {
+        "ref-width": 1920,
+        "ref-height": 1080,
+        "zones": [
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 960,
+            "height": 1080
+          },
+          {
+            "X": 960,
+            "Y": 0,
+            "width": 960,
+            "height": 1080
+          },
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 960,
+            "height": 540
+          },
+          {
+            "X": 0,
+            "Y": 540,
+            "width": 960,
+            "height": 540
+          },
+          {
+            "X": 960,
+            "Y": 0,
+            "width": 960,
+            "height": 540
+          },
+          {
+            "X": 960,
+            "Y": 540,
+            "width": 960,
+            "height": 540
+          },
+          {
+            "X": 258,
+            "Y": 139,
+            "width": 1405,
+            "height": 810
+          },
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 1920,
+            "height": 540
+          },
+          {
+            "X": 0,
+            "Y": 540,
+            "width": 1920,
+            "height": 540
+          }
+        ],
+        "sensitivity-radius": 20
+      }
+    }
+  ]
+}
