@@ -89,6 +89,51 @@
 
 - [ ] Disable Windows sounds (!!!) - and also disable sound devices that you don't use, such as your displays
 
+  <details>
+    <summary>Turn off Windows sounds</summary>
+
+    - Go to Settings, Sound
+      
+      ```
+      ms-settings:sound
+      ```
+
+    - Go to More sound settings
+    - Go to the tab Sounds
+    - Set sound scheme No Sounds  
+      ![image](https://github.com/SvendK/Docs/assets/3720082/669e567c-6dfd-406c-aa2a-ca0181df6d64)
+      
+  </details>
+
+  <details>
+    <summary>Disable unused sound devices (like your monitor!)</summary>
+
+    - Go to Settings, Sound
+      
+      ```
+      ms-settings:sound
+      ```
+
+    - Under Advanced go to All sound devices
+    - For each unneeded device, click it and for Audio, click Don't allow  
+      ![image](https://github.com/SvendK/Docs/assets/3720082/296096f2-144b-486d-8846-ef1bdfb66c7a)
+
+  </details>
+
+- [ ] Disable touchpad gestures like three-finger-down shows desktop
+
+  <details>
+    <summary>Edit touchpad gestures</summary>
+
+    - Go to Settings, Bluetooth & Devices, Touchpad
+      
+      ```
+      ms-settings:devices-touchpad
+      ```
+
+    - Go to Advanced gestures
+    - Remove any unneeded gestures
+  </details>
 
 ## Security
 
