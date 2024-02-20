@@ -94,6 +94,10 @@
 
 - [ ] Set up BitLocker or other disk encryption if desired  
 
+## Other 'needed' apps
+
+- [ ] Install Spotify from Store
+
 ## Final points
 
 - [ ] Set up system restore point when done with the above, so you have a clean spot for future restoring needs
