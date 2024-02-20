@@ -66,7 +66,29 @@
       ![image](https://github.com/SvendK/Docs/assets/3720082/7b96e9c5-1a56-4545-a4e4-0018b57007f3)
   </details>
   
-- [ ] Setup mouse cursor size and style - Select the Inverted style and size 2 for better contrast and easy cursor finding
+- [ ] Setup mouse cursor size and style  
+  Select the Inverted style and size 2 for better contrast and easy cursor finding
+
+- [ ] Disable web results in Windows Start menu search
+
+  <details>
+    <summary>Set up DisableSearchBoxSuggestions in Registry Database</summary>
+
+    - Open Registry Editor
+    - Go to
+      
+      ```
+      Computer\HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
+      ```
+
+    - Create a new key (folder) inside the Windows key
+    - In ```Computer\HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer``` create a new DWORD value names ```DisableSearchBoxSuggestions```
+    - Doubleclick the new value and set the value to 1
+    - Close Registry Editor
+  </details>
+
+- [ ] Disable Windows sounds (!!!) - and also disable sound devices that you don't use, such as your displays
+
 
 ## Security
 
@@ -74,7 +96,7 @@
 
 ## Final points
 
-- [ ] Set up system restore point
+- [ ] Set up system restore point when done with the above, so you have a clean spot for future restoring needs
 
 <br>
 <br>
