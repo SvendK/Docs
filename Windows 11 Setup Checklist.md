@@ -36,7 +36,7 @@
 
       </details>
       
-    - Either create new custom Canvas type layouts or [use mine](Windows10CheckList/custom-layouts.json). The JSON file should be located in ```%LocalAppData%\Microsoft\PowerToys\FancyZones\```
+    - Either create new custom Canvas type layouts or [use mine](Windows11CheckList/custom-layouts.json). The JSON file should be located in ```%LocalAppData%\Microsoft\PowerToys\FancyZones\```
     
   </details>
   
