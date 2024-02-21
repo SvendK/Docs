@@ -135,6 +135,21 @@
     - Remove any unneeded gestures
   </details>
 
+- [ ] Disable hotkeys for changing input language  
+  Unless you actually use multiple input languages, the default setup for a Danish-setup Windows (with US display language) is to have both Danish and US English input languages. When you accidentally hit Left Alt + Shift or Ctrl + Shift and suddenly the keyboard doesn't type what is written on the key caps.
+
+  <details>
+    <summary>Disable hot keys</summary>    
+    
+    - Search for "Advanced keyboard settings" or go to Settings, Time & Language, Typing, Advanced keyboard settings
+    - Tap Input language hot keys
+    - Select Between input languages in the list and hit Change Key Sequence button
+    - For both Switch Input Language and Switch Keyboard Layout, select Not Assigned and hit OK
+      ![image](https://github.com/SvendK/Docs/assets/3720082/4dfeb0ba-9e96-4f2d-89bc-d3bd1bdfe279)
+  </details>
+
+
+
 ## Security
 
 - [ ] Set up BitLocker or other disk encryption if desired  
